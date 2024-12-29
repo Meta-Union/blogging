@@ -7,11 +7,11 @@
   * This is why chunks for example reset after 30 days of not being visited if they are unclaimed. It allows for new chunks with new content really close by even after years.
   * We also add to the long term motivation by adding skills and custom enchantments which you can grind for.
   * Inactive towns will eventually fall as they lack the flow of cash from active players which means towns need active maintenance to stay alive.
-* Incentivise playing together by for example making it cheaper if your town has more members or having physical chest shops rather than a virtual auction house
+* Incentivise playing together by for example making it cheaper if your town has more members, having Elites which can only be killed by more than 1 player or having physical chest shops rather than a virtual auction house
 * Long term motivations through quests, skills, custom enchantments and being able to grow your town!
 * Try to make all game changing systems optional
   * Which is why there are quests to unlock things such as custom enchantments, skills and so much more
-  * You also don't have to claim if you don't want to BUT your chunks are in danger of being reset for the reason mentioned before
+  * You also don't have to claim if you don't want to BUT your chunks are in danger of being reset for the reason mentioned before and they're also in danger of being griefed/robbed
 * Power to the user, apart from what vanilla provides we don't want to interfere too much with what's happening or being created.
   * This also goes for events. We do not have the resources to make new events happen in the game every week or so just to entertain people, instead players are welcome to create their own events in whatever way they want :)
 * No teleportation, also partially due to not being vanilla but mainly because it takes away from the experience of exploration and getting an idea of the size and direction people and towns are in. It also supports in getting players to strategically pick where they want to live. This is non negotiable, it's been this way for years and it won't change now, sorry.
