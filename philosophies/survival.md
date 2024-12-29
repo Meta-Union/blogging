@@ -33,5 +33,5 @@ Ultimately we try to cater to people that like to grind, to progress further and
 
 *This entry might be edited as time goes on but the main philosophy hasn't changed in several years and it most likely won't in the future.*
 
-This video (really lengthy, you don't have to watch it but you can if you're interested) also explains quite well why some things should not be made easy to obtain and why we like to keep things a little challenging at times. In short, if you endure something challenging, especially with someone else, you give a certain emotional value to things that you get from doing so and if we remove all of that, it will obviously be lost.
-[plugin:youtube](https://youtu.be/D5hJ9jhVlXY)
+This YouTube video (really lengthy, you don't have to watch it but you can if you're interested) also explains quite well why some things should not be made easy to obtain and why we like to keep things a little challenging at times. In short, if you endure something challenging, especially with someone else, you give a certain emotional value to things that you get from doing so and if we remove all of that, it will obviously be lost.
+[Click here to watch the YouTube Video that's been mentioned](https://youtu.be/D5hJ9jhVlXY)
