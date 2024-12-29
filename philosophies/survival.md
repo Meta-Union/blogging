@@ -1,4 +1,4 @@
-# Survival Philosophy
+# <ins>Survival Philosophy</ins>
 ## The main ideas behind survival
 * We like to reward "real" work rather than automation
   * One way of preventing automation is by having mobs of different sizes which makes many farms less effective and pushes players to either come up with new, clever ways of their own OR make "natural" farms where the mobs can roam free and are only butchered when needed
