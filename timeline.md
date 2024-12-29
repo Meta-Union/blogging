@@ -1,4 +1,4 @@
-# Meta-Union Timeline
+# <ins>Meta-Union Timeline</ins>
 ## Preamble
 
 A lot of people like to ask “how old is this server?” and the answer to that is quite difficult and manifold as it's gone through many different revisions and recreations but I want to give an overview over the entire history by putting it in this wiki. If you just came to read about our history or because you want to know all the details doesn't matter, I just hope you enjoy the little ride through time.
