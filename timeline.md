@@ -137,19 +137,20 @@ Build battles by FosterFam were also hosted along the way, also Geyser and compa
 
 1.18 eventually came and it was finally time for the big reset everyone was waiting for. It was a huge success, things worked well, I even added more plans where users had to unlock plugins and other features before getting their chests, it was a really great time!
 
-## Velocity's rise and EliteMobs' downfall
+## 2022
+### Velocity's rise and EliteMobs' downfall
 
 In January 2022 I had decided to move to velocity as a Minecraft proxy as it was just more modern, had better performance and I am certain it will eventually be used more than BungeeCord though this change might take longer than the one we had from hMod to Bukkit (it has already taken longer, Velocity has been around for over a year by now I'm quite sure).
 
 EliteMobs was also shut down in the same month as I just didn't see anyone playing it, sad to see considering where I came from but still a sacrifice I was willing to make. In its place I put the builders server which was a server for all the builders we had gathered on the creative server throughout the years. I just realized after a while that their demands were very different from what creative offered and eventually I knew I had to get a server just for them.
 
-## MetaUnion3 and a new milestone
+### MetaUnion3 and a new milestone
 
 At the end of March 2022 I bought a new server called MetaUnion3. I migrated the creative and builders server there, even though it took much longer than I'd like to admit to get everything working.
 
 And that is where we are right now, as of writing this it is April 12th 2022 and it's been a huge blast from the past to write all of this down. Whoever actually reads all of this is an absolute legend and I hope we'll continue this journey for several more years to come.
 
-## Multi Proxy Setup & Chat Plugin
+### Multi Proxy Setup & Chat Plugin
 
 Thanks to MetaUnion3 I was finally able to work on some redundancy which means having multiple proxies and in case one went down, another could take over. This isn't automatic to this day (2024-12-29) but it's good enough as Velocity is a really reliable piece of software! That happened around the end of 2022.
 
@@ -157,7 +158,9 @@ One thing you must do if running multiple proxies: Get RedisBungee (even works f
 
 A couple other plugins were replaced and some changes made but overall it worked quite well, having this multi proxy setup. One thing however has been bothering me for a long, long time, even before the multi proxy situation: The chat. There were many plugins which used BungeeCord's channel for communicating but that wouldn't work across multiple proxies and thus I had to use redis. A few plugins allowed for this kind of communication but they all felt rather clunky and not like they really did what I wanted. A long lasting search for a plugin started in which I tried several different ones and kept coming back to this same problem but never found a really good solution...
 
-## Less complexity, more simplicity
+## 2023
+
+### Less complexity, more simplicity
 
 I've always been an advocate of these words, so March 2023 Essentials was removed from creative, a pretty big part of the server back then but it's slowly lost its reason to be part of the server.
 
@@ -165,13 +168,13 @@ Throughout the start of 2023 I also felt the need to create our own version of S
 
 On better news, during April 2023 it finally happened, the unthinkable! A new chat plugin was developed which had all the features I wanted AND it was able to have chat across servers thanks to Redis! It was a HUGE burden off my shoulders and ever since installing it, I haven't looked back! *I know a few others may have come out until now but the one I have been using has done everything I wanted until now and I have no reason to switch!*
 
-## Yet another survival reset?
+### Yet another survival reset?
 
 That one was quite a ride... it started out as an idea I thought would be rather harmless as I saw people slowly moving away from survival as there wasn't much reason to come back anymore and most things were already achieved. I thought switching up the economy would be a good idea as I could make people spend money over time through the upkeep of their town and if they never returned, the town would be removed.
 
 However this all lead to a big debate as people had massive towns and did not want to see them vanish so it was actually the community who proposed an entire reset to adjust to the new economy and the whole new system. In hindsight it was probably the best choice and the reset went mostly smoothly. We had some really long debates about how to make the changes, what we would do from the start of this server and then it just happened at around October 2023.
 
-## Even more simplicity
+## 2024 Even more simplicity
 
 I guess you could say 2024 was mostly a year for even more simplicity. The first thing that was removed for simplicity's sake was the personal worlds plugin on the builders server. That was around January of 2024. It wasn't the most well-received change but it was necessary for technical reasons as the plugin was starting to have strange bugs and wasn't really maintained anymore.
 
