@@ -92,4 +92,5 @@ Now I have a backup, I have logs and the Minecraft server can communicate with t
 
 And to top it off, here's an overview of the current situation:
 
-![image](https://github.com/user-attachments/assets/5619c2da-556a-4e50-9d6d-f00a61acc909)
+![image](https://github.com/user-attachments/assets/d8603918-a91a-424d-b77f-039d2113572d)
+
